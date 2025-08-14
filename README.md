@@ -36,7 +36,7 @@ This project utilizes the **Large-scale Disk Failure Prediction Dataset** from A
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Vaishnav-Ullas/disk_failure_prediction.git
    cd disk_failure_prediction
    ```
 
